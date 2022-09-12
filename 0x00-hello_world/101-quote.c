@@ -1,22 +1,13 @@
-#include <stdio.h>
-
+#include <stdio.h>
 #include <unistd.h>
 
-
-
 /**
+ * main - print quote
  *
- *    * main - print quote
+ * Description: prints Dora's quote
  *
- *    *
- *
- *    * Description: prints Dora's quote
- *
- *    *
- *
- *    * Return: Always 1 (Success)
- *
- *    */
+ * Return: Always 1 (Success)
+ */
 
 int main(void)
 {
